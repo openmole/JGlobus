@@ -47,9 +47,9 @@
 	</issueManagement>
 
 	<scm>
-		<connection>scm:git:git@github.com:jglobus/JGlobus.git</connection>
-		<developerConnection>scm:git:git@github.com:jglobus/JGlobus.git</developerConnection>
-		<url>scm:git:git@github.com:jglobus/JGlobus.git</url>
+		<connection>scm:git:git@github.com:openmole/JGlobus.git</connection>
+		<developerConnection>scm:git:git@github.com:openmole/JGlobus.git</developerConnection>
+		<url>scm:git:git@github.com:openmole/JGlobus.git</url>
 	</scm>
 
 	<!-- Sonatype repo integration -->
